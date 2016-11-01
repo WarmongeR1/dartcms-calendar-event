@@ -1,0 +1,29 @@
+# PyCharm
+.idea
+*.iml
+out
+gen
+
+# Python
+*.pyc
+venv
+
+# Node
+node_modules
+npm-debug.log
+
+# Packages
+*.egg-info
+build
+/dist
+
+# Git
+*.orig
+
+# Docs
+docs/_build
+
+# Project
+www
+db.sqlite3
+db.sqlite3-journal
